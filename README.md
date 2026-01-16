@@ -42,3 +42,9 @@ Disputed territories are represented by:
 
 The project does not attempt to resolve disputes.
 It represents the data as provided.
+
+---
+
+## License
+
+MIT License.
